@@ -1,0 +1,81 @@
+# Logfile created on 2011-10-04 18:10:14 -0400 by logger.rb/25413
+E, [2011-10-04T18:21:52.160245 #95385] ERROR -- : Reading *.txt inside /data/reservas/inbound/
+E, [2011-10-04T18:21:52.160410 #95385] ERROR -- : Reading *.txt inside /data/reservas/inbound/
+E, [2011-10-04T18:22:02.579966 #95387] ERROR -- : Reading *.txt inside /data/reservas/inbound/
+E, [2011-10-04T18:22:02.580137 #95387] ERROR -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:26:14.902576 #95415]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:26:14.902845 #95415]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+D, [2011-10-04T18:26:42.483479 #95417] DEBUG -- : D-Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:26:57.080377 #95418]  INFO -- : I-Reading *.txt inside /data/reservas/inbound/
+E, [2011-10-04T18:29:16.623286 #95421] ERROR -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:31:12.878759 #95434]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:36:39.373560 #95446]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:37:38.705380 #95448]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:38:08.953514 #95450]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:38:42.268799 #95452]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:39:48.182966 #95455]  INFO -- : Downloading email attachments
+E, [2011-10-04T18:39:50.186154 #95455] ERROR -- : Error connecting to email account - getaddrinfo: nodename nor servname provided, or not known
+E, [2011-10-04T18:39:50.186364 #95455] ERROR -- : Error getting email messages - undefined method `each' for nil:NilClass
+I, [2011-10-04T18:39:50.186446 #95455]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:40:54.640861 #95457]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:40:56.994689 #95457]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:41:57.571097 #95463]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:41:57.623375 #95463]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:41:58.651805 #95463]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:44:59.503066 #95470]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:44:59.556083 #95470]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:45:00.633792 #95470]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:46:03.469147 #95472]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:46:03.520523 #95472]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:46:04.595699 #95472]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:46:48.936486 #95474]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:46:48.988988 #95474]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:46:50.027121 #95474]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:46:50.027424 #95474]  INFO -- : File - /data/reservas/inbound/.
+I, [2011-10-04T18:46:50.027532 #95474]  INFO -- : File - /data/reservas/inbound/..
+I, [2011-10-04T18:47:16.535310 #95478]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:47:16.583507 #95478]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:47:17.627197 #95478]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:48:36.982732 #95482]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:48:37.032206 #95482]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:48:40.944940 #95482]  INFO -- : Reading *.txt inside /data/reservas/inbound/
+I, [2011-10-04T18:48:40.945224 #95482]  INFO -- : Parsing file - /data/reservas/inbound/MIGRACION20110919-20110919V2.txt
+I, [2011-10-04T18:48:41.014183 #95482]  INFO -- : File /data/reservas/inbound/MIGRACION20110919-20110919V2.txt was proccessed and moved to /data/reservas/loaded/
+I, [2011-10-04T18:48:41.014350 #95482]  INFO -- : Parsing file - /data/reservas/inbound/SEREX20110919-20110919.txt
+I, [2011-10-04T18:48:41.030878 #95482]  INFO -- : File /data/reservas/inbound/SEREX20110919-20110919.txt was proccessed and moved to /data/reservas/loaded/
+I, [2011-10-04T18:50:08.170834 #95490]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:50:08.219659 #95490]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:50:09.612544 #95490]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:53:10.993530 #95494]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:53:11.046335 #95494]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:53:13.741718 #95494]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:53:13.741998 #95494]  INFO -- : Parsing file - '/data/reservas/inbound/MIGRACION20110919-20110919V2.txt'
+I, [2011-10-04T18:53:13.777085 #95494]  INFO -- : File '/data/reservas/inbound/MIGRACION20110919-20110919V2.txt' was proccessed and moved to '/data/reservas/loaded/'
+I, [2011-10-04T18:53:13.777247 #95494]  INFO -- : Parsing file - '/data/reservas/inbound/SEREX20110919-20110919.txt'
+I, [2011-10-04T18:53:13.805628 #95494]  INFO -- : File '/data/reservas/inbound/SEREX20110919-20110919.txt' was proccessed and moved to '/data/reservas/loaded/'
+I, [2011-10-04T18:54:23.381250 #95499]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:54:23.430649 #95499]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:54:24.491112 #95499]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:54:24.491395 #95499]  INFO -- : Application finished execution........
+I, [2011-10-04T18:54:51.047023 #95506]  INFO -- : App Started - Ready to download and process files
+I, [2011-10-04T18:54:51.099461 #95506]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:54:52.172549 #95506]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:54:52.172851 #95506]  INFO -- : .....................Application finished execution.....................
+I, [2011-10-04T18:55:14.636311 #95507]  INFO -- : .....................App Started - Ready to download and process files.....................
+I, [2011-10-04T18:55:14.692208 #95507]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:55:15.769819 #95507]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:55:15.770172 #95507]  INFO -- : .....................Application finished execution.....................
+I, [2011-10-04T18:56:16.867480 #95508]  INFO -- : .....................App Started - Ready to download and process files.....................
+I, [2011-10-04T18:56:16.918663 #95508]  INFO -- : Downloading email attachments
+I, [2011-10-04T18:56:20.706742 #95508]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-04T18:56:20.707007 #95508]  INFO -- : Parsing file - '/data/reservas/inbound/MIGRACION20110919-20110919V2.txt'
+I, [2011-10-04T18:56:20.731720 #95508]  INFO -- : File '/data/reservas/inbound/MIGRACION20110919-20110919V2.txt' was proccessed and moved to '/data/reservas/loaded/'
+I, [2011-10-04T18:56:20.731885 #95508]  INFO -- : Parsing file - '/data/reservas/inbound/SEREX20110919-20110919.txt'
+I, [2011-10-04T18:56:20.752533 #95508]  INFO -- : File '/data/reservas/inbound/SEREX20110919-20110919.txt' was proccessed and moved to '/data/reservas/loaded/'
+I, [2011-10-04T18:56:20.752704 #95508]  INFO -- : .....................Application finished execution.....................
+I, [2011-10-05T10:26:45.336106 #1258]  INFO -- : .....................App Started - Ready to download and process files.....................
+I, [2011-10-05T10:26:45.588055 #1258]  INFO -- : Downloading email attachments
+E, [2011-10-05T10:26:45.954180 #1258] ERROR -- : Error connecting to email account - getaddrinfo: nodename nor servname provided, or not known
+E, [2011-10-05T10:26:45.954397 #1258] ERROR -- : Error getting email messages - undefined method `each' for nil:NilClass
+I, [2011-10-05T10:26:45.954472 #1258]  INFO -- : Reading *.txt inside '/data/reservas/inbound/'
+I, [2011-10-05T10:26:45.954712 #1258]  INFO -- : Parsing file - '/data/reservas/inbound/MIGRACION20110919-20110919V2.txt'
