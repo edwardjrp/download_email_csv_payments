@@ -1,0 +1,2 @@
+# Ruby app downloads csv payments attachments from an email account and process them into an sqlserver 2000 db server.
+The app connects to the configure email account, check for new emails and download csv attachment to then send them to an sqlserver 2000 database server to process them as payments received.

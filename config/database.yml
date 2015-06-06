@@ -1,17 +1,17 @@
 # SQLite version 3.x
 #   gem install sqlite3-ruby (not necessary on OS X Leopard)
 
-adapter: "sqlserver"
-host: "196.168.100.39"
-database: "dbcobrosdgm"
-username: "sa"
-password: "sa"
+#adapter: "sqlserver"
+#host: "196.168.100.39"
+#database: "dbcobrosdgm"
+#username: "sa"
+#password: "sa"
 
-#  adapter: "sqlserver"
-#  host: "10.0.0.154"
-#  database: "Cedulados20110601"
-#  username: "sa"
-#  password: "s4s4"
+  adapter: "sqlserver"
+  host: "10.0.0.154"
+  database: "payments_received"
+  username: "sa"
+  password: "changeme"
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
