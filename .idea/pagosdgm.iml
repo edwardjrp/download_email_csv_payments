@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.1.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.1.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-sqlserver-adapter (v3.1.1, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v3.1.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="arel (v2.2.1, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.0.1, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.21, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="logger (v1.2.8, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mail (v2.3.0, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.16, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.3, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.2, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tiny_tds (v0.4.5, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.29, RVM: ruby-1.9.2-p180 [pagosdgm]) [gem]" level="application" />
+  </component>
+</module>
+
